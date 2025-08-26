@@ -27,15 +27,35 @@ Atuo também como **UX/UI Designer**, cuidando da **experiência do usuário e d
 ---
 
 ### 🛠 Tecnologias & Ferramentas
+
+<!-- BI & Análise de Dados -->
 <img align="left" alt="Low-code" width="30" height="30" src="https://img.shields.io/badge/LOW--CODE-9146FF?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 <img align="left" alt="Power BI" width="30" height="30" src="https://img.icons8.com/color/48/power-bi.png"/>
-<img align="left" alt="Figma" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="left" alt="SQL" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Excel" width="30" height="30" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+<img align="left" alt="Google Data Studio" width="30" height="30" src="https://img.icons8.com/color/48/google-data-studio.png"/>
+
+<!-- Design & Prototipação -->
+<img align="left" alt="Figma" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" alt="Canva" width="30" height="30" src="https://img.icons8.com/color/48/canva.png"/>
+<img align="left" alt="Miro" width="30" height="30" src="https://img.icons8.com/color/48/miro.png"/>
+
+<!-- Desenvolvimento Web -->
 <img align="left" alt="HTML" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+<!-- Banco de Dados & SQL -->
+
+<!-- Linguagens & Scripts -->
+
+<!-- Colaboração & DevOps -->
+<img align="left" alt="Git" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Teams" width="30" height="30" src="https://img.icons8.com/color/48/microsoft-teams.png"/>
+<img align="left" alt="Trello" width="30" height="30" src="https://img.icons8.com/color/48/trello.png"/>
+<img align="left" alt="Jira" width="30" height="30" src="https://img.icons8.com/color/48/jira.png"/>
+
 <br/><br/>
+
 
 ---
 
