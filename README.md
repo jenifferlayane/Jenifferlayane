@@ -62,7 +62,7 @@ Atuo também como **UX/UI Designer**, cuidando da **experiência do usuário e d
 
 - **[Triagem automatizada ](link-para-repositorio-ou-demo)** – Automação de processos | ![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow) 
 - **[SDG](link-para-repositorio-ou-demo)** – Gerenciamento de processos por setor | ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)  
-- **[SCFAM](link-para-repositorio-ou-demo)** – Sistema de Cadastro de Formulário/ Acompanhamento e Monitoramento de Processos | ![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow) 
+- **[SCMA](link-para-repositorio-ou-demo)** – Sistema de Cadastro Monitoramento e Acompanhamento | ![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow) 
 - **[Orçamento ](link-para-repositorio-ou-demo)** – Gestão orçamentária  | ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)  
 - **[Controle de Demandas - Power Apps](link-para-repositorio-ou-demo)** – App para gestão de tarefas e acompanhamento de demandas | ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
