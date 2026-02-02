@@ -71,7 +71,6 @@ Atuo também como **UX/UI Designer**, cuidando da **experiência do usuário e d
 
 ### 🎨 Competências em Design & Engenharia
 - 📐 **Análise de Requisitos**  
-- 🏗️ **Arquitetura de Sistemas**  
 - 🖌️ **Prototipação no Figma**  
 - 📖 **Histórias de Usuário**  
 - 🧩 **UX Design**  
