@@ -40,7 +40,7 @@ Atuo também como **UX/UI Designer**, cuidando da **experiência do usuário e d
 
 <!-- Desenvolvimento Web -->
 <img align="left" alt="HTML" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="JavaScript" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
 
 <!-- Banco de Dados & SQL -->
 
@@ -51,43 +51,46 @@ Atuo também como **UX/UI Designer**, cuidando da **experiência do usuário e d
 <img align="left" alt="GitHub" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Teams" width="30" height="30" src="https://img.icons8.com/color/48/microsoft-teams.png"/>
 <img align="left" alt="Trello" width="30" height="30" src="https://img.icons8.com/color/48/trello.png"/>
-<img align="left" alt="Jira" width="30" height="30" src="https://img.icons8.com/color/48/jira.png"/>
+
 
 <br/><br/>
 
 
 ---
 
-### 🚀 Projetos em Destaque
 
-- **[Triagem automatizada ](link-para-repositorio-ou-demo)** – Automação de processos | ![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow) 
-- **[SDG](link-para-repositorio-ou-demo)** – Gerenciamento de processos por setor | ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)  
-- **[SCMA](link-para-repositorio-ou-demo)** – Sistema de Cadastro Monitoramento e Acompanhamento | ![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow) 
-- **[Orçamento ](link-para-repositorio-ou-demo)** – Gestão orçamentária  | ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)  
-- **[Controle de Demandas - Power Apps](link-para-repositorio-ou-demo)** – App para gestão de tarefas e acompanhamento de demandas | ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
+### 🚀 Projetos de Destaque (Case Study)
+
+*Os projetos abaixo foram desenvolvidos para órgãos federais. Clique nos títulos para ver os detalhes técnicos e as interfaces.*
+
+- **[📂 Sistema SARA 2.0 - Corregedoria](./SARA-Corregedoria)** – Plataforma de gestão correcional ativa. Implementação de UI avançada com HTML Inline e automação via Power Automate.
+- **[📂 Painel de Orçamento MM (Mobile)](./Painel-Orcamento-Mobile)** – Dashboard estratégico em Power BI integrado ao SIOP. Foco em alta performance e layout responsivo.
+- **[📂 Sistema de Gestão SCDC/SDGM](./SCDC-SDGM)** – Evolução de sistemas em Power Apps Canvas integrados a SharePoint.
+- **[📂 SCMA](./SCMA)** – Sistema de Cadastro, Monitoramento e Acompanhamento para centralização de informações.
 
 ---
 
-### 🎨 Competências em Design & Engenharia
-- 📐 **Análise de Requisitos**  
-- 🖌️ **Prototipação no Figma**  
-- 📖 **Histórias de Usuário**  
-- 🧩 **UX Design**  
-- 🎨 **UI Design**
+### 📐 Competências em Engenharia & UX
+- 📋 **Análise de Requisitos & Histórias de Usuário** 
+- 🖌️ **Prototipação de Alta Fidelidade (Figma)** 
+- 🏗️ **Arquitetura de Soluções Low-code** 
+- 🎨 **Desenvolvimento de Interfaces (UI) Scannable** 
+- ⚙️ **Automação de Processos (BPM)**
 
 ---
 
 ### 🎓 Formação & Certificações
-- 🎓 **Análise e Desenvolvimento de Sistemas** – Anhanguera (2020)  
-- 🎓 **Pós-graduação em Desenvolvimento de Aplicações Web** – Anhanguera (2021)  
-- 📜 **Fundamentos de Segurança Cibernética – ENAP (2024)**  
-- 📜 **Inteligência Artificial no Serviço Público – ENAP (2021)**  
+- 🎓 **Pós-graduação em Desenvolvimento de Aplicações Web** – Anhanguera  
+- 🎓 **Graduação em Análise e Desenvolvimento de Sistemas** – Anhanguera  
+- 📜 **Fundamentos de Segurança Cibernética** – ENAP  
+- 📜 **Inteligência Artificial no Serviço Público** – ENAP  
 
 ---
 
 ### 📊 Estatísticas GitHub
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jenifferlayane&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifferlayane&theme=tokyonight&layout=compact&langs_count=9" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jenifferlayane&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifferlayane&theme=tokyonight&layout=compact&langs_count=6" height="170"/>
 </p>
+
