@@ -59,15 +59,15 @@ Atuo também como **UX/UI Designer**, cuidando da **experiência do usuário e d
 ---
 
 
+### 🚀 Projetos de Destaque (Case Studies)
 
-### 🚀 Projetos de Destaque (Case Study)
+*Soluções de engenharia e BI desenvolvidas para o setor público. Clique nos links para explorar documentações técnicas e demonstrações:*
 
-*Os projetos abaixo foram desenvolvidos para órgãos federais. Clique nos títulos para ver os detalhes técnicos e as interfaces.*
-
-- **[📂 Sistema SARA 2.0 - Corregedoria](./SARA-Corregedoria)** – Plataforma de gestão correcional ativa. Implementação de UI avançada com HTML Inline e automação via Power Automate.
-- **[📂 Painel de Orçamento MM (Mobile)](./Painel-Orcamento-Mobile)** – Dashboard estratégico em Power BI integrado ao SIOP. Foco em alta performance e layout responsivo.
-- **[📂 Sistema de Gestão SCDC/SDGM](./SCDC-SDGM)** – Evolução de sistemas em Power Apps Canvas integrados a SharePoint.
-- **[📂 SCMA](./SCMA)** – Sistema de Cadastro, Monitoramento e Acompanhamento para centralização de informações.
+- **[📂 Portfólio Estratégico MMulheres](https://github.com/jenifferlayane/meu-portfolio)** – Repositório central com todos os cases detalhados.
+- **[⚖️ Sistema SARA 2.0 - Corregedoria](https://github.com/jenifferlayane/meu-portfolio/blob/59f576d00e85a25f4503127af64d42e3934e99f4/SARA-Corregedoria/README.md)** – Automação correcional com motor de cálculo de score e UI avançada.
+- **[💰 Gestão Orçamentária e Financeira](https://github.com/jenifferlayane/meu-portfolio/blob/59f576d00e85a25f4503127af64d42e3934e99f4/Or%C3%A7amento%20Geral/README.md)** – Controle de dotações e emendas parlamentares com custo zero de licença.
+- **[📊 BI: Orçamento Geral & 5ª CNPM](https://github.com/jenifferlayane/meu-portfolio/blob/59f576d00e85a25f4503127af64d42e3934e99f4/Painel%20BI%20-%20Or%C3%A7amento/README.md)** – Dashboards interativos para monitoramento de recursos e conferências nacionais.
+- **[💜 Painel Bertha (Hub de Transparência)](https://github.com/jenifferlayane/meu-portfolio/blob/59f576d00e85a25f4503127af64d42e3934e99f4/Painel%20Bertha/README.md)** – Hub centralizador de governança e indicadores administrativos.
 
 ---
 
